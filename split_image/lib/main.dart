@@ -19,7 +19,7 @@ class _HomeState extends State<Home> {
     // TODO: implement initState
     super.initState();
     decode('asset/F.jpg');
-    // splitImage();
+    splitImage();
   }
 
 decode(String a)
